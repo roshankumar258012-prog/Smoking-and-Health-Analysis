@@ -74,7 +74,7 @@ The dashboard helps users explore:
 - Distribution of recorded health conditions across organs.
 - Relationships between BMI and systolic blood pressure.
 
-- 📷 Dashboard Preview
+-# 📷 Dashboard Preview
 - <img width="1366" height="720" alt="Screenshot 2026-11-14 201816" src="https://github.com/user-attachments/assets/fdd32429-c165-4c37-89c0-814034131576" />
 
 
